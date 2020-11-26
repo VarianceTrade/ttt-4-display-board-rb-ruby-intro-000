@@ -6,5 +6,5 @@ def display_board(board)
   puts "   |   |   "
   puts "-----------"
   puts "   |   |   "
-print display_board
+print board
 end
